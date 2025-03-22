@@ -3,6 +3,9 @@
 
 Bu proje, Dünya Sağlık Örgütü (WHO) tarafından sağlanan verileri kullanarak hayat beklentisini etkileyen faktörleri incelemeyi amaçlamaktadır. Geçmişte yapılan çalışmalarda genellikle demografik değişkenler, gelir bileşimi ve ölüm oranları gibi etmenler ele alınmış, ancak aşılamanın ve insan gelişim indeksinin etkileri yeterince araştırılmamıştır. 
 
+## ## 🔗 Hugging Face Uygulaması
+[Hayat Beklentisi - Hugging Face Space](https://huggingface.co/spaces/btulftma/Life_Expectancy)
+
 ## 🔗 Kaggle Veri Seti
 [Hayat Beklentisi Veri Seti](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
