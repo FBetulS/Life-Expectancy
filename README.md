@@ -6,7 +6,7 @@ Bu proje, Dünya Sağlık Örgütü (WHO) tarafından sağlanan verileri kullana
 ⚠️ Not
 3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
 
-## ## 🔗 Hugging Face Uygulaması
+## 🔗 Hugging Face Uygulaması
 [Hayat Beklentisi - Hugging Face Space](https://huggingface.co/spaces/btulftma/Life_Expectancy)
 
 ## 🔗 Kaggle Veri Seti
